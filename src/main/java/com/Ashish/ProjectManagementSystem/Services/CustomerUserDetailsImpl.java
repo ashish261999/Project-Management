@@ -1,6 +1,6 @@
 package com.Ashish.ProjectManagementSystem.Services;
 
-import com.Ashish.ProjectManagementSystem.UserRepository.UserRepository;
+import com.Ashish.ProjectManagementSystem.Repository.UserRepository;
 import com.Ashish.ProjectManagementSystem.modal.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.GrantedAuthority;

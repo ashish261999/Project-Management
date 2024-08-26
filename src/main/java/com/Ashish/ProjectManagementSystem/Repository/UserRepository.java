@@ -1,4 +1,4 @@
-package com.Ashish.ProjectManagementSystem.UserRepository;
+package com.Ashish.ProjectManagementSystem.Repository;
 
 import com.Ashish.ProjectManagementSystem.modal.User;
 import org.springframework.data.jpa.repository.JpaRepository;

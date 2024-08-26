@@ -3,7 +3,7 @@ package com.Ashish.ProjectManagementSystem.Controller;
 import com.Ashish.ProjectManagementSystem.AppConfig.JwtProvider;
 import com.Ashish.ProjectManagementSystem.Response.AuthResponse;
 import com.Ashish.ProjectManagementSystem.Services.CustomerUserDetailsImpl;
-import com.Ashish.ProjectManagementSystem.UserRepository.UserRepository;
+import com.Ashish.ProjectManagementSystem.Repository.UserRepository;
 import com.Ashish.ProjectManagementSystem.modal.User;
 import com.Ashish.ProjectManagementSystem.request.LoginRequest;
 import org.springframework.beans.factory.annotation.Autowired;
